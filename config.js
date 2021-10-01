@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Lachie',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: '96d62f7e9081f998b2b0902665148c46',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -48,19 +48,19 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.protonmail.com/u/0/inbox',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://www.youtube.com/',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Free Software Foundation',
+      icon: 'briefcase',
+      link: 'https://www.fsf.org/',
     },
     {
       id: '5',
@@ -71,7 +71,7 @@ const CONFIG = {
     {
       id: '6',
       name: 'Odysee',
-      icon: 'youtube',
+      icon: 'play',
       link: 'https://odysee.com/',
     },
   ],
